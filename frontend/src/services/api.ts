@@ -1,7 +1,7 @@
 import axios from 'axios';
 import { CreateTodoInput, Todo, UpdateTodoInput } from '../types';
 
-const API_URL = 'http://localhost:3001';
+const API_URL = 'https://backend-api-pmsv.onrender.com';
 
 export const api = {
   // Todo CRUD operations
