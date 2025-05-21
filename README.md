@@ -44,8 +44,8 @@ You can get the project in one of the following ways:
 - **Clone via Git** (recommended):  
   Open a terminal and run:
   ```bash
-  git clone https://github.com/gouthammacha/Assignment
-  cd assignment
+  git clone https://github.com/gouthammacha/Leucine_Assignment.git
+  cd Leucine_Assignment
   ```
 
 ### 2.Configure Environment Variables
