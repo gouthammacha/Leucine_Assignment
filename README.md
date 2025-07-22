@@ -1,5 +1,5 @@
 
-# Leucine Assignment Project
+# To_Do_List_Summary Project
 
 This project is a full-stack application consisting of:
 - A **frontend** built with React and Vite
